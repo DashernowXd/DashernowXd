@@ -3,7 +3,7 @@
 ## 📌 Resumen / Overview
 - **Profesión / Profession:** Ingeniero en Ciencias de la Computación (Benemérita Universidad Autónoma de Puebla - BUAP).
 - **Ubicación / Location:** Puebla, Puebla, México.
-- **Entorno de Desarrollo / Dev Environment:** Linux (Ubuntu).
+- **Entorno de Desarrollo / Dev Environment:** Linux (Ubuntu), Windows.
 
 ## 🛠️ Stack Tecnológico / Technical Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

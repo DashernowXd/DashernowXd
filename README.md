@@ -51,5 +51,5 @@
 
 ## 📬 Contacto / Contact
 
-- **LinkedIn:** [Perfil de LinkedIn](#)
-- **Email:** [Correo electrónico](#)
+- **LinkedIn:** https://www.linkedin.com/in/jose-abel-ponce-lara-ba49501b5/(#)
+- **Email:** abelponcelar@gmail.com (#)

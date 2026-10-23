@@ -1,6 +1,6 @@
-# 👨‍💻 Perfil Profesional | José Abel Ponce Lara
+#  Perfil Profesional | José Abel Ponce Lara
 
-## 📌 Resumen / Overview
+##  Resumen / Overview
 - **Profesión / Profession:** Ingeniero en Ciencias de la Computación (Benemérita Universidad Autónoma de Puebla - BUAP).
 - **Ubicación / Location:** Puebla, Puebla, México.
 - **Entorno de Desarrollo / Dev Environment:** Linux (Ubuntu), Windows.
@@ -19,7 +19,7 @@
 ![Vuetify](https://img.shields.io/badge/vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-## 🚀 Proyectos Destacados (Español)
+##  Proyectos Destacados (Español)
 
 * **Med2me (Ene - Jul 2026)**
     * **Descripción:** Software médico en desarrollo con arquitectura full-stack basada en Django y Vue/Vuetify, integrada con servicios de inteligencia artificial mediante Gemini API.
@@ -34,7 +34,7 @@
 * **CRUD Académico - Warrior Labs (May 2023)**
     * **Descripción:** Sistema de gestión funcional desarrollado como parte de una evaluación técnica empleando arquitectura PHP con el framework Laravel.
 
-## 🚀 Featured Projects (English)
+## Featured Projects (English)
 
 * **Med2me (Jan - Jul 2026)**
     * **Description:** Medical software under development featuring an integrated full-stack architecture powered by Django, Vue/Vuetify, and AI capabilities driven by the Gemini API.

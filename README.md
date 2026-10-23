@@ -5,7 +5,7 @@
 - **Ubicación / Location:** Puebla, Puebla, México.
 - **Entorno de Desarrollo / Dev Environment:** Linux (Ubuntu), Windows.
 
-## 🛠️ Stack Tecnológico / Technical Stack
+## Stack Tecnológico / Technical Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,7 +49,7 @@
 * **Academic CRUD - Warrior Labs (May 2023)**
     * **Description:** Functional management system developed as a technical assessment using PHP and the Laravel framework.
 
-## 📬 Contacto / Contact
+## Contacto / Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/jose-abel-ponce-lara-ba49501b5/(#)
 - **Email:** abelponcelar@gmail.com (#)

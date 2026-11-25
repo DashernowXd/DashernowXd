@@ -23,7 +23,7 @@
 
 * **Med2me (Ene - Jul 2026)**
     * **Descripción:** Software médico en desarrollo con arquitectura full-stack basada en Django y Vue/Vuetify, integrada con servicios de inteligencia artificial mediante Gemini API.
-* **Sistema Financiero TASF (Ene - Jul 2026)**
+* **Sistema Financiero TASF (Ene 2026)**
     * **Descripción:** Diseño e implementación de consultas y servicios optimizados para sistemas financieros complejos durante el periodo de prácticas profesionales utilizando Java.
 * **Espectrómetro de Audio Interactivo**
     * **Descripción:** Creación de una interfaz gráfica tridimensional que procesa y renderiza las frecuencias de un espectrómetro de audio en tiempo real mediante Three.js, inicializada por un evento controlado del usuario ("Pulsar para iniciar").
